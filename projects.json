@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Sample App",
+    "type": "App",
+    "description": "Placeholder project description. Replace with details about your real app or website.",
+    "link": "https://example.com",
+    "tags": ["React", "Mobile"]
+  },
+  {
+    "title": "Sample Website",
+    "type": "Website",
+    "description": "Another placeholder. Edit this file to add your real projects.",
+    "link": "https://example.com",
+    "tags": ["Next.js", "Tailwind"]
+  }
+]
